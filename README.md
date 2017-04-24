@@ -3,11 +3,11 @@ Handwriting Recognition
 
 Slides and assets for the handwriting recognition workshop [first presented at Toronto Ruby Hack Night, April 24, 2017]
 
-###Introduction
+### Introduction
 
 Recognizing handwriting with a computer seems almost impossible. This workshop looks into the foundations of neural networks capable of doing just this.
 
-###Setup
+### Setup
 
 Here are the steps to get you started with the repo.
 
@@ -26,6 +26,6 @@ Here are the steps to get you started with the repo.
   % ruby mnist.rb
   ```
 
-###Thanks
+### Thanks
 
 Thanks to Luis Serrano and Geoff Buesing for the components of our exploration.
